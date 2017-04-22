@@ -1,5 +1,5 @@
-# My personal website
-## wojdan (dot) tk
+# wojdan (dot) tk
+## my personal website
 
 At the beggining it is supposed to show some bio and my [GitHub][ref-gh] public repos using [GitHub Api][ref-ghapi] running (if tests will be positive) on server-side (data caching and conditional requests). Next step is to use server-side data only for first connection and AJAX for returning. There is also plan to use [Bootstarp][ref-bs] to make it responsive and nice looking.
 
